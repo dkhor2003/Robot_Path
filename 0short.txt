@@ -1,0 +1,5 @@
+    0    s    S    s    0
+    0    s  swe    s    0
+    0    s   we    s    0
+    0    s    *    s    0
+    0    e    D    w    0
