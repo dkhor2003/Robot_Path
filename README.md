@@ -1,1 +1,2 @@
 # Robot_Path
+This program is designed to find the shortest path and the fastest path (using Euclidean Distance as a heuristic function) for a robot starting from a designated start point on the grid to a designated end point.
